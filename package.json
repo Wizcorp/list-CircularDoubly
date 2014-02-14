@@ -1,0 +1,19 @@
+{
+  "name": "list-CircularDoubly",
+  "version": "0.1.1",
+  "description": "Circular Doubly List Datastructure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wizcorp/list-CircularDoubly.git"
+  },
+  "author": "bchevalier",
+  "license": "MIT",
+  "gitHead": "3b263538fb8b935e3cf22db0c2d6ad098c0bc5be",
+  "bugs": {
+    "url": "https://github.com/Wizcorp/list-CircularDoubly/issues"
+  }
+}
