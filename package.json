@@ -1,6 +1,6 @@
 {
-  "name": "list-CircularDoubly",
-  "version": "0.1.1",
+  "name": "CircularDoublyList",
+  "version": "0.1.2",
   "description": "Circular Doubly List Datastructure",
   "main": "index.js",
   "scripts": {
